@@ -1,0 +1,32 @@
+body{
+    background-color: rgb(112, 246, 224);
+    font-family: 'Hina Mincho', serif;
+}
+.header_div{
+    background-color: rgb(255, 223, 80);
+    color: rgb(33, 251, 204);
+    letter-spacing: 3px;
+}
+.header_div p{
+    font-family: 'Raleway', sans-serif;
+    color: black;
+    font-size: larger;
+    font-weight: bold;
+}
+.main_div button{
+    margin-top: 30px;
+    width: 125px;
+    font-size: 25px;
+    letter-spacing: 1px;
+    font-family: 'Bebas Neue', cursive;
+}
+.copyright_footer{
+    position: fixed;
+    background-color: rgb(255, 223, 80);
+    bottom: 0;
+    width: 100%;
+    line-height:3;
+    text-align: center;
+    font-size: large;
+    text-shadow: 5px 5px 5px gray;
+}
